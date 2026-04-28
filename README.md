@@ -59,7 +59,7 @@
 - Data Studies
   - [Ανάλυση Μεγάλων Εταιρειών: Έσοδα, Απασχόληση και Κλάδοι](https://github.com/messinisk/data-studies/blob/main/100_Largest_companies/100_Largest_companies.md)
   - [Ανάλυση 200 εταιρείων σε  μεγέθους, ηλικίας και κλάδου δραστηριότητας](https://github.com/messinisk/data-studies/blob/main/200_Company_details/200_Company_details.md)
-  - [Ανάλυση δεδομένων για την απάτη τραπεζικών λογαριασμών] (https://github.com/messinisk/data-studies/blob/main/Bank%20Account%20Fraud%20Dataset%20Suite%20(NeurIPS%202022)/BankAccountFraudDatasetSuite.md)
+  - [Ανάλυση δεδομένων για την απάτη τραπεζικών λογαριασμών](https://github.com/messinisk/data-studies/blob/main/Bank%20Account%20Fraud%20Dataset%20Suite%20(NeurIPS%202022)/BankAccountFraudDatasetSuite.md)
 
 - Publications  
 
