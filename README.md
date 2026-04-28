@@ -66,6 +66,9 @@
 
 - Publications  
   - [Unanswered Questions]
+    - EL:  [pdf](el/unanswered-questions_el.pdf),   [video](https://youtu.be/6_pr7qp9JcQ)
+    - En: [pdf](en/unanswered-questions_en.pdf),  [video](https://www.youtube.com/watch?v=lsdRD2qtJTM)
+
   - [Social Economy](https://github.com/messinisk/SOCIAL-ECONOMY)
     -  ⬇️ **Download PDF:** <br> [SOCIAL ECONOMY version En](en/SOCIAL_ECONOMY_en.pdf)<br> [SOCIAL ECONOMY version El](<el/SOCIAL ECONOMY_el.pdf>)<br>  [SOCIAL ECONOMY version De](de/SOCIAL_ECONOMY_de.pdf)
   - UML Architecture Models  
