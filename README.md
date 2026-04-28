@@ -61,6 +61,8 @@
   - [Ανάλυση 200 εταιρείων σε  μεγέθους, ηλικίας και κλάδου δραστηριότητας](https://github.com/messinisk/data-studies/blob/main/200_Company_details/200_Company_details.md)
   - [Ανάλυση δεδομένων για την απάτη τραπεζικών λογαριασμών](https://github.com/messinisk/data-studies/blob/main/Bank%20Account%20Fraud%20Dataset%20Suite%20(NeurIPS%202022)/BankAccountFraudDatasetSuite.md)
   - [Καμπάνια μάρκετινγκ WA](https://github.com/messinisk/data-studies/blob/main/Fast%20Food%20Marketing%20Campaign%20AB%20Test/WA_Marketing-Campaign.md)
+  - [Olist — Γεωγραφική κατανομή customer, Ανάλυση κλεισμένων προσφορων](https://github.com/messinisk/data-studies/tree/main/Olist_analysis)
+
 
 - Publications  
   - Unanswered Questions  
