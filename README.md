@@ -33,7 +33,7 @@
 ### 🔹 Repositories που αποδεικνύουν τις δεξιότητες
 - Data Studies: https://github.com/messinisk/data-studies  
 - Publications: https://github.com/messinisk/publications  
-- UML & Architecture Models: https://github.com/messinisk/software_architecture_MODEL_UML  
+- UML & Architecture Models: https://github.com/messinisk/software_architecture_MODEL_UML
 
 ---
 
@@ -60,6 +60,7 @@
   - [Ανάλυση Μεγάλων Εταιρειών: Έσοδα, Απασχόληση και Κλάδοι](https://github.com/messinisk/data-studies/blob/main/100_Largest_companies/100_Largest_companies.md)
   - [Ανάλυση 200 εταιρείων σε  μεγέθους, ηλικίας και κλάδου δραστηριότητας](https://github.com/messinisk/data-studies/blob/main/200_Company_details/200_Company_details.md)
   - [Ανάλυση δεδομένων για την απάτη τραπεζικών λογαριασμών](https://github.com/messinisk/data-studies/blob/main/Bank%20Account%20Fraud%20Dataset%20Suite%20(NeurIPS%202022)/BankAccountFraudDatasetSuite.md)
+  - [Καμπάνια μάρκετινγκ WA](https://github.com/messinisk/data-studies/blob/main/Fast%20Food%20Marketing%20Campaign%20AB%20Test/WA_Marketing-Campaign.md)
 
 - Publications  
   - Unanswered Questions  
