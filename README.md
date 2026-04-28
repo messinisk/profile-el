@@ -58,6 +58,7 @@
 ### Κύριες αναφορές
 - Data Studies
   - [Ανάλυση Μεγάλων Εταιρειών: Έσοδα, Απασχόληση και Κλάδοι](https://github.com/messinisk/data-studies/blob/main/100_Largest_companies/100_Largest_companies.md)
+  - [Άπο 200 εταιρείας στοιχεία - ανάλυση : μεγέθους, ηλικίας και κλάδου δραστηριότητας](https://github.com/messinisk/data-studies/blob/main/200_Company_details/200_Company_details.md)
 
 - Publications  
 
