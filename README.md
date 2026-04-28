@@ -65,8 +65,9 @@
 
 
 - Publications  
-  - Unanswered Questions  
-  - Social Economy  
+  - [Unanswered Questions]
+  - [Social Economy](https://github.com/messinisk/SOCIAL-ECONOMY)
+    -  ⬇️ **Download PDF:** <br> [SOCIAL ECONOMY version En](en/SOCIAL_ECONOMY_en.pdf)<br> [SOCIAL ECONOMY version El](<el/SOCIAL ECONOMY_el.pdf>)<br>  [SOCIAL ECONOMY version De](de/SOCIAL_ECONOMY_de.pdf)
   - UML Architecture Models  
 
 ### Εξωτερικό Repo
