@@ -54,14 +54,14 @@
 ---
 
 ## 📂 Επιλεγμένα Repositories – Πορεία & Εξέλιξη
-
-### Κύριες αναφορές
+###  Data Analysis
 - [Data Studies](https://github.com/messinisk/data-studies/tree/main)
   - [Ανάλυση Μεγάλων Εταιρειών: Έσοδα, Απασχόληση και Κλάδοι](https://github.com/messinisk/data-studies/blob/main/100_Largest_companies/100_Largest_companies.md)
   - [Ανάλυση 200 εταιρείων σε  μεγέθους, ηλικίας και κλάδου δραστηριότητας](https://github.com/messinisk/data-studies/blob/main/200_Company_details/200_Company_details.md)
   - [Ανάλυση δεδομένων για την απάτη τραπεζικών λογαριασμών](https://github.com/messinisk/data-studies/blob/main/Bank%20Account%20Fraud%20Dataset%20Suite%20(NeurIPS%202022)/BankAccountFraudDatasetSuite.md)
   - [Καμπάνια μάρκετινγκ WA](https://github.com/messinisk/data-studies/blob/main/Fast%20Food%20Marketing%20Campaign%20AB%20Test/WA_Marketing-Campaign.md)
   - [Olist — Γεωγραφική κατανομή customer, Ανάλυση κλεισμένων προσφορων](https://github.com/messinisk/data-studies/tree/main/Olist_analysis)
+  - [Οι πληθυσμιακές κατανομές και η μακροχρόνια μεταβολή του αποθέματος μεταναστών (1990–2024)](https://github.com/messinisk/data-studies/blob/main/migration_population_analysis/migration_population_analysis.md)
 
 
 - Publications  
